@@ -67,10 +67,7 @@ insert  into `sg_comment`(`id`,`type`,`article_id`,`root_id`,`content`,`to_comme
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="c28b5236-336d-476e-a70c-51ec80891196" object-ref="schemas/yx_blog/tables/sys_role_menu" />
-      <object connection-id="c28b5236-336d-476e-a70c-51ec80891196" object-ref="schemas/yx_blog/tables/sys_role" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="3e7f0802-071e-478a-8709-cfa34ecdf6a1" dataset="yx_blog.sys_user" active-filter-id="EMPTY_FILTER" />
